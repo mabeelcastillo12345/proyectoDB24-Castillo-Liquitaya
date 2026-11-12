@@ -1,5 +1,13 @@
 # Proyecto DB24 - Base de Datos Betel
 
+## Caracteristicas del proyecto
+- Sucursales, productos, categorías y proveedores
+- Stock independiente por sucursal, sin valores negativos
+- Precios habituales y promocionales con historial
+- Promociones hasta agotar stock
+- Compras, ventas, devoluciones y transferencias entre sucursales
+- Roles, permisos y auditoría
+
 ## Descripción del Proyecto
 Este repositorio contiene el diseño, estructuración y desarrollo de la base de datos para el sistema de gestión del proyecto **Betel**. El objetivo principal es organizar y administrar la información de entidades clave, garantizando la integridad de los datos y permitiendo la ejecución de consultas operativas.
 
